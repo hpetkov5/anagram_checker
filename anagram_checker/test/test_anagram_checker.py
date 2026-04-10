@@ -5,7 +5,7 @@ This module uses the unittest framework to test the functionality of the are_ana
 '''
 
 import unittest
-from src.anagram_checker import are_anagrams
+from anagram_checker.src.anagram_checker import are_anagrams
 
 
 class TestAnagramChecker(unittest.TestCase):
