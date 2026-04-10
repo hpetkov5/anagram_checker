@@ -1,5 +1,6 @@
-# anagram_checker
-Anagram checker is a function that takes 2 strings and returns True if they are anagrams, otherwise it returns False.
+# python-playground-tasks
+python-playground-tasks is a repository containing several seperate small projects, namely:
+- anagram_checker:
 
 ## Installation
 ### Requirements
@@ -9,13 +10,7 @@ Anagram checker is a function that takes 2 strings and returns True if they are 
 Clone the repository and install the package.
 
 ## Usage
-First, import the `are_anagrams` function, then call it providing 2 strings.
+First, import the function you require, then call it.
 
 ## Testing
-This project uses unittest for unit testing.
-
-### Running the unittests
-Make sure dependencies are installed, then run:
-```bash
-python -m unittest test/test_anagram_checker.py
-```
+This project uses unittest and pytest for testing.
