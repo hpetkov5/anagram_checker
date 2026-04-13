@@ -4,7 +4,6 @@ Unit tests for the Fibonacci function.
 This module uses the pytest framework to test the functionality of the Fibonacci class.
 '''
 
-import pytest
 from fibonacci.src.fibonacci import Fibonacci
 
 def test_fibonacci():
